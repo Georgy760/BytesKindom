@@ -1,0 +1,428 @@
+{
+  "LevelId": 9,
+  "levelHeight": -1,
+  "levelWidth": -1,
+  "levelDepth": -1,
+  "PlayerPosX": 0,
+  "PlayerPosZ": 0,
+  "Map": {
+    "tiles": [
+      {
+        "TileIndex": 0,
+        "Type": "HardButton",
+        "PosX": 0,
+        "PosZ": 0,
+        "PosY": 0,
+        "BridgeTileIndex": [
+          11
+        ]
+      },
+      {
+        "TileIndex": 1,
+        "Type": "Normal",
+        "PosX": 1,
+        "PosZ": 0,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 2,
+        "Type": "Normal",
+        "PosX": 2,
+        "PosZ": 0,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 3,
+        "Type": "Normal",
+        "PosX": 6,
+        "PosZ": 0,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 4,
+        "Type": "Normal",
+        "PosX": 7,
+        "PosZ": 0,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 5,
+        "Type": "Normal",
+        "PosX": 8,
+        "PosZ": 0,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 6,
+        "Type": "Normal",
+        "PosX": 0,
+        "PosZ": 1,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 7,
+        "Type": "Normal",
+        "PosX": 1,
+        "PosZ": 1,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 8,
+        "Type": "Normal",
+        "PosX": 2,
+        "PosZ": 1,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 9,
+        "Type": "Bridge",
+        "PosX": 3,
+        "PosZ": 1,
+        "PosY": 0,
+        "IsFirstTileOfBridge": false,
+        "BridgeAnchorTileId": -1,
+        "PreviousTileIndex": 10,
+        "NextTileIndex": -1
+      },
+      {
+        "TileIndex": 10,
+        "Type": "Bridge",
+        "PosX": 4,
+        "PosZ": 1,
+        "PosY": 0,
+        "IsFirstTileOfBridge": false,
+        "BridgeAnchorTileId": -1,
+        "PreviousTileIndex": 11,
+        "NextTileIndex": 9
+      },
+      {
+        "TileIndex": 11,
+        "Type": "Bridge",
+        "PosX": 5,
+        "PosZ": 1,
+        "PosY": 0,
+        "IsFirstTileOfBridge": true,
+        "BridgeAnchorTileId": 12,
+        "PreviousTileIndex": -1,
+        "NextTileIndex": 10
+      },
+      {
+        "TileIndex": 12,
+        "Type": "Normal",
+        "PosX": 6,
+        "PosZ": 1,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 13,
+        "Type": "Normal",
+        "PosX": 7,
+        "PosZ": 1,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 14,
+        "Type": "Normal",
+        "PosX": 8,
+        "PosZ": 1,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 15,
+        "Type": "Normal",
+        "PosX": 0,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 16,
+        "Type": "Normal",
+        "PosX": 1,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 17,
+        "Type": "Normal",
+        "PosX": 2,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 18,
+        "Type": "Bridge",
+        "PosX": 3,
+        "PosZ": 2,
+        "PosY": 0,
+        "IsFirstTileOfBridge": true,
+        "BridgeAnchorTileId": 17,
+        "PreviousTileIndex": -1,
+        "NextTileIndex": 25
+      },
+      {
+        "TileIndex": 19,
+        "Type": "Bridge",
+        "PosX": 4,
+        "PosZ": 2,
+        "PosY": 0,
+        "IsFirstTileOfBridge": false,
+        "BridgeAnchorTileId": -1,
+        "PreviousTileIndex": 26,
+        "NextTileIndex": -1
+      },
+      {
+        "TileIndex": 20,
+        "Type": "HardButton",
+        "PosX": 6,
+        "PosZ": 2,
+        "PosY": 0,
+        "BridgeTileIndex": [
+          24,
+          26,
+          18,
+          29
+        ]
+      },
+      {
+        "TileIndex": 21,
+        "Type": "Normal",
+        "PosX": 7,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 22,
+        "Type": "Normal",
+        "PosX": 8,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 23,
+        "Type": "Bridge",
+        "PosX": 1,
+        "PosZ": 3,
+        "PosY": 0,
+        "IsFirstTileOfBridge": false,
+        "BridgeAnchorTileId": -1,
+        "PreviousTileIndex": 27,
+        "NextTileIndex": -1
+      },
+      {
+        "TileIndex": 24,
+        "Type": "Bridge",
+        "PosX": 2,
+        "PosZ": 3,
+        "PosY": 0,
+        "IsFirstTileOfBridge": true,
+        "BridgeAnchorTileId": 17,
+        "PreviousTileIndex": -1,
+        "NextTileIndex": -1
+      },
+      {
+        "TileIndex": 25,
+        "Type": "Bridge",
+        "PosX": 3,
+        "PosZ": 3,
+        "PosY": 0,
+        "IsFirstTileOfBridge": false,
+        "BridgeAnchorTileId": -1,
+        "PreviousTileIndex": 18,
+        "NextTileIndex": -1
+      },
+      {
+        "TileIndex": 26,
+        "Type": "Bridge",
+        "PosX": 4,
+        "PosZ": 3,
+        "PosY": 0,
+        "IsFirstTileOfBridge": true,
+        "BridgeAnchorTileId": 30,
+        "PreviousTileIndex": -1,
+        "NextTileIndex": 19
+      },
+      {
+        "TileIndex": 27,
+        "Type": "Bridge",
+        "PosX": 1,
+        "PosZ": 4,
+        "PosY": 0,
+        "IsFirstTileOfBridge": false,
+        "BridgeAnchorTileId": -1,
+        "PreviousTileIndex": 31,
+        "NextTileIndex": 23
+      },
+      {
+        "TileIndex": 28,
+        "Type": "Bridge",
+        "PosX": 2,
+        "PosZ": 4,
+        "PosY": 0,
+        "IsFirstTileOfBridge": false,
+        "BridgeAnchorTileId": -1,
+        "PreviousTileIndex": 29,
+        "NextTileIndex": -1
+      },
+      {
+        "TileIndex": 29,
+        "Type": "Bridge",
+        "PosX": 3,
+        "PosZ": 4,
+        "PosY": 0,
+        "IsFirstTileOfBridge": true,
+        "BridgeAnchorTileId": 30,
+        "PreviousTileIndex": -1,
+        "NextTileIndex": 28
+      },
+      {
+        "TileIndex": 30,
+        "Type": "Teleporter",
+        "PosX": 4,
+        "PosZ": 4,
+        "PosY": 0,
+        "linkedTeleporterId": 35
+      },
+      {
+        "TileIndex": 31,
+        "Type": "Bridge",
+        "PosX": 1,
+        "PosZ": 5,
+        "PosY": 0,
+        "IsFirstTileOfBridge": true,
+        "BridgeAnchorTileId": 33,
+        "PreviousTileIndex": -1,
+        "NextTileIndex": 27
+      },
+      {
+        "TileIndex": 32,
+        "Type": "Normal",
+        "PosX": 0,
+        "PosZ": 6,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 33,
+        "Type": "Normal",
+        "PosX": 1,
+        "PosZ": 6,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 34,
+        "Type": "HardButton",
+        "PosX": 2,
+        "PosZ": 6,
+        "PosY": 0,
+        "BridgeTileIndex": [
+          31
+        ]
+      },
+      {
+        "TileIndex": 35,
+        "Type": "Teleporter",
+        "PosX": 6,
+        "PosZ": 6,
+        "PosY": 0,
+        "linkedTeleporterId": 30
+      },
+      {
+        "TileIndex": 36,
+        "Type": "Normal",
+        "PosX": 7,
+        "PosZ": 6,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 37,
+        "Type": "Normal",
+        "PosX": 8,
+        "PosZ": 6,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 38,
+        "Type": "Normal",
+        "PosX": 0,
+        "PosZ": 7,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 39,
+        "Type": "Normal",
+        "PosX": 1,
+        "PosZ": 7,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 40,
+        "Type": "Normal",
+        "PosX": 2,
+        "PosZ": 7,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 41,
+        "Type": "Normal",
+        "PosX": 6,
+        "PosZ": 7,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 42,
+        "Type": "Normal",
+        "PosX": 7,
+        "PosZ": 7,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 43,
+        "Type": "Normal",
+        "PosX": 8,
+        "PosZ": 7,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 44,
+        "Type": "Normal",
+        "PosX": 0,
+        "PosZ": 8,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 45,
+        "Type": "Normal",
+        "PosX": 1,
+        "PosZ": 8,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 46,
+        "Type": "Normal",
+        "PosX": 2,
+        "PosZ": 8,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 47,
+        "Type": "Normal",
+        "PosX": 6,
+        "PosZ": 8,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 48,
+        "Type": "Normal",
+        "PosX": 7,
+        "PosZ": 8,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 49,
+        "Type": "Goal",
+        "PosX": 8,
+        "PosZ": 8,
+        "PosY": 0
+      }
+    ]
+  }
+}

@@ -1,0 +1,354 @@
+{
+  "LevelId": 1,
+  "levelHeight": -1,
+  "levelWidth": -1,
+  "levelDepth": -1,
+  "PlayerPosX": 0,
+  "PlayerPosZ": 0,
+  "Map": {
+    "tiles": [
+      {
+        "TileIndex": 0,
+        "Type": "Normal",
+        "PosX": 0,
+        "PosZ": 0,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 1,
+        "Type": "Normal",
+        "PosX": 1,
+        "PosZ": 0,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 2,
+        "Type": "Teleporter",
+        "PosX": 4,
+        "PosZ": 0,
+        "PosY": 0,
+        "linkedTeleporterId": 45
+      },
+      {
+        "TileIndex": 3,
+        "Type": "Normal",
+        "PosX": 5,
+        "PosZ": 0,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 4,
+        "Type": "Normal",
+        "PosX": 6,
+        "PosZ": 0,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 5,
+        "Type": "Teleporter",
+        "PosX": 7,
+        "PosZ": 0,
+        "PosY": 0,
+        "linkedTeleporterId": 29
+      },
+      {
+        "TileIndex": 6,
+        "Type": "Normal",
+        "PosX": 10,
+        "PosZ": 0,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 7,
+        "Type": "Goal",
+        "PosX": 11,
+        "PosZ": 0,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 8,
+        "Type": "Normal",
+        "PosX": 0,
+        "PosZ": 1,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 9,
+        "Type": "Normal",
+        "PosX": 1,
+        "PosZ": 1,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 10,
+        "Type": "Normal",
+        "PosX": 2,
+        "PosZ": 1,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 11,
+        "Type": "Normal",
+        "PosX": 9,
+        "PosZ": 1,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 12,
+        "Type": "Normal",
+        "PosX": 10,
+        "PosZ": 1,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 13,
+        "Type": "Normal",
+        "PosX": 11,
+        "PosZ": 1,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 14,
+        "Type": "Normal",
+        "PosX": 0,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 15,
+        "Type": "Normal",
+        "PosX": 1,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 16,
+        "Type": "Normal",
+        "PosX": 2,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 17,
+        "Type": "Normal",
+        "PosX": 3,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 18,
+        "Type": "Teleporter",
+        "PosX": 4,
+        "PosZ": 2,
+        "PosY": 0,
+        "linkedTeleporterId": 42
+      },
+      {
+        "TileIndex": 19,
+        "Type": "Normal",
+        "PosX": 6,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 20,
+        "Type": "Normal",
+        "PosX": 8,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 21,
+        "Type": "Normal",
+        "PosX": 9,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 22,
+        "Type": "Normal",
+        "PosX": 10,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 23,
+        "Type": "Normal",
+        "PosX": 11,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 24,
+        "Type": "Normal",
+        "PosX": 0,
+        "PosZ": 3,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 25,
+        "Type": "Normal",
+        "PosX": 1,
+        "PosZ": 3,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 26,
+        "Type": "Normal",
+        "PosX": 2,
+        "PosZ": 3,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 27,
+        "Type": "Normal",
+        "PosX": 3,
+        "PosZ": 3,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 28,
+        "Type": "Normal",
+        "PosX": 5,
+        "PosZ": 3,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 29,
+        "Type": "Teleporter",
+        "PosX": 7,
+        "PosZ": 3,
+        "PosY": 0,
+        "linkedTeleporterId": 5
+      },
+      {
+        "TileIndex": 30,
+        "Type": "Normal",
+        "PosX": 8,
+        "PosZ": 3,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 31,
+        "Type": "Normal",
+        "PosX": 9,
+        "PosZ": 3,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 32,
+        "Type": "Normal",
+        "PosX": 10,
+        "PosZ": 3,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 33,
+        "Type": "Normal",
+        "PosX": 11,
+        "PosZ": 3,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 34,
+        "Type": "Normal",
+        "PosX": 0,
+        "PosZ": 4,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 35,
+        "Type": "Normal",
+        "PosX": 1,
+        "PosZ": 4,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 36,
+        "Type": "Normal",
+        "PosX": 2,
+        "PosZ": 4,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 37,
+        "Type": "Normal",
+        "PosX": 9,
+        "PosZ": 4,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 38,
+        "Type": "Normal",
+        "PosX": 10,
+        "PosZ": 4,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 39,
+        "Type": "Normal",
+        "PosX": 11,
+        "PosZ": 4,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 40,
+        "Type": "Normal",
+        "PosX": 0,
+        "PosZ": 5,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 41,
+        "Type": "Normal",
+        "PosX": 1,
+        "PosZ": 5,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 42,
+        "Type": "Teleporter",
+        "PosX": 4,
+        "PosZ": 5,
+        "PosY": 0,
+        "linkedTeleporterId": 18
+      },
+      {
+        "TileIndex": 43,
+        "Type": "Normal",
+        "PosX": 5,
+        "PosZ": 5,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 44,
+        "Type": "Normal",
+        "PosX": 6,
+        "PosZ": 5,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 45,
+        "Type": "Teleporter",
+        "PosX": 7,
+        "PosZ": 5,
+        "PosY": 0,
+        "linkedTeleporterId": 2
+      },
+      {
+        "TileIndex": 46,
+        "Type": "Normal",
+        "PosX": 10,
+        "PosZ": 5,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 47,
+        "Type": "Normal",
+        "PosX": 11,
+        "PosZ": 5,
+        "PosY": 0
+      }
+    ]
+  }
+}

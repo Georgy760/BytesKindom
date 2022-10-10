@@ -1,0 +1,527 @@
+{
+  "LevelId": 5,
+  "levelHeight": -1,
+  "levelWidth": -1,
+  "levelDepth": -1,
+  "PlayerPosX": 0,
+  "PlayerPosZ": 0,
+  "Map": {
+    "tiles": [
+      {
+        "TileIndex": 0,
+        "Type": "HardButton",
+        "PosX": 0,
+        "PosZ": 0,
+        "PosY": 0,
+        "BridgeTileIndex": [36, 37, 46, 44, 53, 54, 63]
+      },
+      {
+        "TileIndex": 1,
+        "Type": "Unstable",
+        "PosX": 1,
+        "PosZ": 0,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 2,
+        "Type": "Unstable",
+        "PosX": 2,
+        "PosZ": 0,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 3,
+        "Type": "Normal",
+        "PosX": 3,
+        "PosZ": 0,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 4,
+        "Type": "Normal",
+        "PosX": 7,
+        "PosZ": 0,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 5,
+        "Type": "Normal",
+        "PosX": 8,
+        "PosZ": 0,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 6,
+        "Type": "Normal",
+        "PosX": 9,
+        "PosZ": 0,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 7,
+        "Type": "Unstable",
+        "PosX": 0,
+        "PosZ": 1,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 8,
+        "Type": "Unstable",
+        "PosX": 1,
+        "PosZ": 1,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 9,
+        "Type": "Unstable",
+        "PosX": 2,
+        "PosZ": 1,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 10,
+        "Type": "Normal",
+        "PosX": 3,
+        "PosZ": 1,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 11,
+        "Type": "Normal",
+        "PosX": 7,
+        "PosZ": 1,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 12,
+        "Type": "Normal",
+        "PosX": 8,
+        "PosZ": 1,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 13,
+        "Type": "Normal",
+        "PosX": 9,
+        "PosZ": 1,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 14,
+        "Type": "Unstable",
+        "PosX": 0,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 15,
+        "Type": "Unstable",
+        "PosX": 1,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 16,
+        "Type": "Unstable",
+        "PosX": 2,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 17,
+        "Type": "Normal",
+        "PosX": 3,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 18,
+        "Type": "Normal",
+        "PosX": 5,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 19,
+        "Type": "Normal",
+        "PosX": 6,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 20,
+        "Type": "Unstable",
+        "PosX": 7,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 21,
+        "Type": "Normal",
+        "PosX": 8,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 22,
+        "Type": "Normal",
+        "PosX": 9,
+        "PosZ": 2,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 23,
+        "Type": "Normal",
+        "PosX": 0,
+        "PosZ": 3,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 24,
+        "Type": "Normal",
+        "PosX": 1,
+        "PosZ": 3,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 25,
+        "Type": "Normal",
+        "PosX": 2,
+        "PosZ": 3,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 26,
+        "Type": "Teleporter",
+        "PosX": 3,
+        "PosZ": 3,
+        "PosY": 0,
+        "linkedTeleporterId": 39
+      },
+      {
+        "TileIndex": 27,
+        "Type": "Normal",
+        "PosX": 5,
+        "PosZ": 3,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 28,
+        "Type": "Normal",
+        "PosX": 6,
+        "PosZ": 3,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 29,
+        "Type": "Normal",
+        "PosX": 7,
+        "PosZ": 3,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 30,
+        "Type": "Teleporter",
+        "PosX": 5,
+        "PosZ": 4,
+        "PosY": 0,
+        "linkedTeleporterId": 67
+      },
+      {
+        "TileIndex": 31,
+        "Type": "Normal",
+        "PosX": 6,
+        "PosZ": 4,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 32,
+        "Type": "Normal",
+        "PosX": 7,
+        "PosZ": 4,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 33,
+        "Type": "Normal",
+        "PosX": 2,
+        "PosZ": 5,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 34,
+        "Type": "Normal",
+        "PosX": 3,
+        "PosZ": 5,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 35,
+        "Type": "Teleporter",
+        "PosX": 4,
+        "PosZ": 5,
+        "PosY": 0,
+        "linkedTeleporterId": 62
+      },
+      {
+        "TileIndex": 36,
+        "Type": "Bridge",
+        "PosX": 2,
+        "PosZ": 6,
+        "PosY": 0,
+        "IsFirstTileOfBridge": true,
+        "BridgeAnchorTileId": 33,
+        "PreviousTileIndex": -1,
+        "NextTileIndex": -1
+      },
+      {
+        "TileIndex": 37,
+        "Type": "Bridge",
+        "PosX": 3,
+        "PosZ": 6,
+        "PosY": 0,
+        "IsFirstTileOfBridge": true,
+        "BridgeAnchorTileId": 34,
+        "PreviousTileIndex": -1,
+        "NextTileIndex": -1
+      },
+      {
+        "TileIndex": 38,
+        "Type": "Normal",
+        "PosX": 4,
+        "PosZ": 6,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 39,
+        "Type": "Teleporter",
+        "PosX": 6,
+        "PosZ": 6,
+        "PosY": 0,
+        "linkedTeleporterId": 26
+      },
+      {
+        "TileIndex": 40,
+        "Type": "Normal",
+        "PosX": 7,
+        "PosZ": 6,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 41,
+        "Type": "Normal",
+        "PosX": 8,
+        "PosZ": 6,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 42,
+        "Type": "Normal",
+        "PosX": 9,
+        "PosZ": 6,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 43,
+        "Type": "Normal",
+        "PosX": 0,
+        "PosZ": 7,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 44,
+        "Type": "Bridge",
+        "PosX": 1,
+        "PosZ": 7,
+        "PosY": 0,
+        "IsFirstTileOfBridge": true,
+        "BridgeAnchorTileId": 43,
+        "PreviousTileIndex": -1,
+        "NextTileIndex": -1
+      },
+      {
+        "TileIndex": 45,
+        "Type": "Bridge",
+        "PosX": 2,
+        "PosZ": 7,
+        "PosY": 0,
+        "IsFirstTileOfBridge": false,
+        "BridgeAnchorTileId": -1,
+        "PreviousTileIndex": 54,
+        "NextTileIndex": -1
+      },
+      {
+        "TileIndex": 46,
+        "Type": "Bridge",
+        "PosX": 3,
+        "PosZ": 7,
+        "PosY": 0,
+        "IsFirstTileOfBridge": true,
+        "BridgeAnchorTileId": 47,
+        "PreviousTileIndex": -1,
+        "NextTileIndex": -1
+      },
+      {
+        "TileIndex": 47,
+        "Type": "Normal",
+        "PosX": 4,
+        "PosZ": 7,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 48,
+        "Type": "Normal",
+        "PosX": 6,
+        "PosZ": 7,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 49,
+        "Type": "Unstable",
+        "PosX": 7,
+        "PosZ": 7,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 50,
+        "Type": "Unstable",
+        "PosX": 8,
+        "PosZ": 7,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 51,
+        "Type": "Normal",
+        "PosX": 9,
+        "PosZ": 7,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 52,
+        "Type": "Normal",
+        "PosX": 0,
+        "PosZ": 8,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 53,
+        "Type": "Bridge",
+        "PosX": 1,
+        "PosZ": 8,
+        "PosY": 0,
+        "IsFirstTileOfBridge": true,
+        "BridgeAnchorTileId": 60,
+        "PreviousTileIndex": -1,
+        "NextTileIndex": -1
+      },
+      {
+        "TileIndex": 54,
+        "Type": "Bridge",
+        "PosX": 2,
+        "PosZ": 8,
+        "PosY": 0,
+        "IsFirstTileOfBridge": true,
+        "BridgeAnchorTileId": 61,
+        "PreviousTileIndex": -1,
+        "NextTileIndex": 45
+      },
+      {
+        "TileIndex": 55,
+        "Type": "Normal",
+        "PosX": 6,
+        "PosZ": 8,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 56,
+        "Type": "Unstable",
+        "PosX": 7,
+        "PosZ": 8,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 57,
+        "Type": "Unstable",
+        "PosX": 8,
+        "PosZ": 8,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 58,
+        "Type": "Normal",
+        "PosX": 9,
+        "PosZ": 8,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 59,
+        "Type": "Goal",
+        "PosX": 0,
+        "PosZ": 9,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 60,
+        "Type": "Normal",
+        "PosX": 1,
+        "PosZ": 9,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 61,
+        "Type": "Normal",
+        "PosX": 2,
+        "PosZ": 9,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 62,
+        "Type": "Teleporter",
+        "PosX": 4,
+        "PosZ": 9,
+        "PosY": 0,
+        "linkedTeleporterId": 35
+      },
+      {
+        "TileIndex": 63,
+        "Type": "Bridge",
+        "PosX": 5,
+        "PosZ": 9,
+        "PosY": 0,
+        "IsFirstTileOfBridge": true,
+        "BridgeAnchorTileId": 64,
+        "PreviousTileIndex": -1,
+        "NextTileIndex": -1
+      },
+      {
+        "TileIndex": 64,
+        "Type": "Normal",
+        "PosX": 6,
+        "PosZ": 9,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 65,
+        "Type": "Normal",
+        "PosX": 7,
+        "PosZ": 9,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 66,
+        "Type": "Normal",
+        "PosX": 8,
+        "PosZ": 9,
+        "PosY": 0
+      },
+      {
+        "TileIndex": 67,
+        "Type": "Teleporter",
+        "PosX": 9,
+        "PosZ": 9,
+        "PosY": 0,
+        "linkedTeleporterId": 30
+      }
+    ]
+  }
+}

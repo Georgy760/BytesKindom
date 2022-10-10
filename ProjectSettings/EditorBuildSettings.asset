@@ -1,0 +1,68 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartingScene.unity
+    guid: 8be1c591b2abdde4a8472e7161ccc212
+  - enabled: 1
+    path: Assets/Scenes/Hub.unity
+    guid: ea19de60ac4800048a46dc2932a54fb2
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: 288cc722bb0aba24398174f2226eba7f
+  - enabled: 1
+    path: Assets/Scenes/Menu_Guest.unity
+    guid: 1405e0eb7eea3464d89328fd278ca9c9
+  - enabled: 1
+    path: Assets/Scenes/Skywards_lvl/lvl0.unity
+    guid: 8798f0f288560ea489254cb0f759fae0
+  - enabled: 1
+    path: Assets/Scenes/Skywards_lvl/lvl1.unity
+    guid: 76ee27c9b21505441a0907533048d920
+  - enabled: 1
+    path: Assets/Scenes/Skywards_lvl/lvl2.unity
+    guid: b2603ec0a632c1745bd2bfff041ae525
+  - enabled: 1
+    path: Assets/Scenes/Skywards_lvl/lvl3.unity
+    guid: 68e0a881f0fa8454ab53f220a69ca171
+  - enabled: 1
+    path: Assets/Scenes/Skywards_lvl/lvl4.unity
+    guid: 9a40d906114af064cbac1e65f62bc3bd
+  - enabled: 1
+    path: Assets/Scenes/Skywards_lvl/lvl5.unity
+    guid: 8badfed066c2f6449b5e3d57f4b84cf0
+  - enabled: 1
+    path: Assets/Scenes/Skywards_lvl/lvl6.unity
+    guid: d84ab09573e0afd448ff7f4686845dd3
+  - enabled: 1
+    path: Assets/Scenes/Skywards_lvl/lvl7.unity
+    guid: c83e6218c55fa184f9a3256c10808731
+  - enabled: 1
+    path: Assets/Scenes/Skywards_lvl/lvl8.unity
+    guid: 74d6d5ded30b6524595e04d03649977f
+  - enabled: 1
+    path: Assets/Scenes/Skywards_lvl/lvl9.unity
+    guid: 65bfa11f6c2181247a3868ebd13f5027
+  - enabled: 1
+    path: Assets/Scenes/Skywards_lvl/lvl10.unity
+    guid: 84545b336d86db440b05d6b5dd6d3abe
+  - enabled: 1
+    path: Assets/Scenes/Skywards_lvl/lvl11.unity
+    guid: 3155cdba1eb3aa2408bdcd17323e3390
+  - enabled: 1
+    path: Assets/Scenes/Skywards_lvl/lvl12.unity
+    guid: 49f0bb5958a2b2542aeee1e6ce6958d9
+  - enabled: 1
+    path: Assets/Scenes/Skywards_lvl/lvl13.unity
+    guid: 8d3f101e31610894182f5a325a0dd6c3
+  - enabled: 1
+    path: Assets/Scenes/Skywards_lvl/lvl14.unity
+    guid: b588f3bef8d45ce4fae19224c6adb08c
+  m_configObjects:
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: c66ec89be0e591ddcafb45ba6cc0f19f, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: 6c96a47bebee10f45bc6fbde61a06f85, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: 126bbc10aa649944ea1b322aaa3b7f9d, type: 2}

@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: c1baeb6e6c0bc4db4beb8d785f18000b
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - levelLoaderJSON: {instanceID: 0}
+  - myLevel: {instanceID: 0}
+  - player: {instanceID: 0}
+  - playerPrefab: {instanceID: 0}
+  - _audioClipLevelStart: {instanceID: 0}
+  - _audioClipLevelEnd: {fileID: 8300000, guid: 04896470a9236ec4e8b516f0a362634c, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
